@@ -101,7 +101,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 # Train the model
-model.fit(train_data, validation_data=val_data, epochs=8)
+model.fit(train_data, validation_data=val_data, epochs=6)
 
 # Evaluate the model on the validation data
 test_loss, test_acc = model.evaluate(val_data)
