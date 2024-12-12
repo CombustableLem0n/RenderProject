@@ -1,0 +1,58 @@
+solid MYSOLID created by LDView, original data in 466e.dat
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.200000 -1.080000 -0.020000
+      vertex -0.320000 -1.080000 -0.020000
+      vertex -0.320000 -1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.200000 -1.080000 -0.020000
+      vertex -0.320000 -1.080000 -0.040000
+      vertex -0.200000 -1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 1.080000 -0.020000
+      vertex -0.200000 1.080000 -0.020000
+      vertex -0.200000 1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 1.080000 -0.020000
+      vertex -0.200000 1.080000 -0.040000
+      vertex -0.320000 1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 1.080000 -0.040000
+      vertex -0.200000 1.080000 -0.040000
+      vertex -0.200000 -1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 1.080000 -0.040000
+      vertex -0.200000 -1.080000 -0.040000
+      vertex -0.320000 -1.080000 -0.040000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 -1.080000 -0.020000
+      vertex -0.200000 -1.080000 -0.020000
+      vertex -0.200000 1.080000 -0.020000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.320000 -1.080000 -0.020000
+      vertex -0.200000 1.080000 -0.020000
+      vertex -0.320000 1.080000 -0.020000
+    endloop
+  endfacet
+endsolid MYSOLID

@@ -1,0 +1,58 @@
+solid MYSOLID created by LDView, original data in 650c.dat
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 0.060000 0.130000 0.130000
+      vertex 0.060000 0.090000 0.130000
+      vertex 0.060000 0.090000 -0.050000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 0.060000 0.130000 0.130000
+      vertex 0.060000 0.090000 -0.050000
+      vertex 0.060000 0.130000 -0.050000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.060000 0.130000 0.130000
+      vertex -0.060000 0.090000 0.130000
+      vertex 0.060000 0.090000 0.130000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.060000 0.130000 0.130000
+      vertex 0.060000 0.090000 0.130000
+      vertex 0.060000 0.130000 0.130000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.060000 0.130000 -0.050000
+      vertex -0.060000 0.090000 -0.050000
+      vertex -0.060000 0.090000 0.130000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -0.060000 0.130000 -0.050000
+      vertex -0.060000 0.090000 0.130000
+      vertex -0.060000 0.130000 0.130000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 0.060000 0.130000 -0.050000
+      vertex 0.060000 0.090000 -0.050000
+      vertex -0.060000 0.090000 -0.050000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 0.060000 0.130000 -0.050000
+      vertex -0.060000 0.090000 -0.050000
+      vertex -0.060000 0.130000 -0.050000
+    endloop
+  endfacet
+endsolid MYSOLID

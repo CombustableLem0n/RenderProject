@@ -1,0 +1,100 @@
+solid MYSOLID created by LDView, original data in 4616559h.dat
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 0.360000 -0.010000 1.480000
+      vertex -1.160000 -0.010000 1.480000
+      vertex -1.160000 -0.010000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 0.000000 1.480000
+      vertex 1.160000 0.000000 -1.480000
+      vertex -1.160000 0.000000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 0.000000 1.480000
+      vertex -1.160000 0.000000 -1.480000
+      vertex -1.160000 0.000000 1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.160000 -0.010000 1.480000
+      vertex 1.160000 -0.010000 1.480000
+      vertex 1.160000 0.000000 1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.160000 -0.010000 1.480000
+      vertex 1.160000 0.000000 1.480000
+      vertex -1.160000 0.000000 1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.160000 -0.010000 -1.480000
+      vertex -1.160000 -0.010000 1.480000
+      vertex -1.160000 0.000000 1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.160000 -0.010000 -1.480000
+      vertex -1.160000 0.000000 1.480000
+      vertex -1.160000 0.000000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 -1.480000
+      vertex -1.160000 -0.010000 -1.480000
+      vertex -1.160000 0.000000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 -1.480000
+      vertex -1.160000 0.000000 -1.480000
+      vertex 1.160000 0.000000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 1.480000
+      vertex 1.160000 -0.010000 -1.480000
+      vertex 1.160000 0.000000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 1.480000
+      vertex 1.160000 0.000000 -1.480000
+      vertex 1.160000 0.000000 1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 -1.480000
+      vertex 1.160000 -0.010000 1.480000
+      vertex -0.360000 -0.010000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 1.480000
+      vertex 0.360000 -0.010000 1.480000
+      vertex -1.160000 -0.010000 -1.480000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.160000 -0.010000 1.480000
+      vertex -1.160000 -0.010000 -1.480000
+      vertex -0.360000 -0.010000 -1.480000
+    endloop
+  endfacet
+endsolid MYSOLID

@@ -1,0 +1,86 @@
+solid MYSOLID created by LDView, original data in 430.dat
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.520000 0.000000 0.720000
+      vertex 1.520000 0.000000 -0.720000
+      vertex 1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.520000 0.000000 0.720000
+      vertex 1.520000 0.160000 -0.720000
+      vertex 1.520000 0.160000 0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.520000 0.000000 -0.720000
+      vertex -1.520000 0.000000 -0.720000
+      vertex -1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex 1.520000 0.000000 -0.720000
+      vertex -1.520000 0.160000 -0.720000
+      vertex 1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 -0.720000
+      vertex -1.520000 0.000000 0.720000
+      vertex -1.520000 0.160000 0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 -0.720000
+      vertex -1.520000 0.160000 0.720000
+      vertex -1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 0.720000
+      vertex 1.520000 0.000000 0.720000
+      vertex 1.520000 0.160000 0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 0.720000
+      vertex 1.520000 0.160000 0.720000
+      vertex -1.520000 0.160000 0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.160000 0.720000
+      vertex 1.520000 0.160000 0.720000
+      vertex 1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.160000 0.720000
+      vertex 1.520000 0.160000 -0.720000
+      vertex -1.520000 0.160000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 0.720000
+      vertex -1.520000 0.000000 -0.720000
+      vertex 1.520000 0.000000 -0.720000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 0.000000
+    outer loop
+      vertex -1.520000 0.000000 0.720000
+      vertex 1.520000 0.000000 -0.720000
+      vertex 1.520000 0.000000 0.720000
+    endloop
+  endfacet
+endsolid MYSOLID
